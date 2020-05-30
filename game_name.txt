@@ -1,1 +1,2 @@
-game name : the game
+game name : the fun game
+
